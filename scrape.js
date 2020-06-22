@@ -21,11 +21,6 @@ rl.question("url (empty for default):", function(url) {
 		rp(options)
 		  .then(($) => {
 			console.log('\n============\n');
-			// $('li').each((i, el) => {
-			// 	const item = $(el).text();
-			// 	console.log(item);
-			// })
-			// console.log($('li').text());
 			if (query) {
 			eval(query);
 			} else {
