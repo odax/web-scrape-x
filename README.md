@@ -1,5 +1,5 @@
-## Web Scrape X
-###by nalee riddell
+# Web Scrape X
+##by nalee riddell
 
 default url: `naleeriddell.com`
 default query: `console.log($('li').text());`
