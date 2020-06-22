@@ -12,6 +12,7 @@ second prompt is query, type in the callback function for the returned data
 
 *For Callback Function*
 query syntax is jquery, for more info visit cheerio.js.org
+$ === the returned promise from fetching data
 
 *example*
 on query prompt:
